@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Machine Learning
+model/
+*.h5
+*.pkl
+*.pth
+
+# datafiles
+*.csv
+# MLFlow
+
+mlruns/*
